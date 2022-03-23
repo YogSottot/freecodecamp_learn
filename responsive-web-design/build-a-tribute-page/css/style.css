@@ -1,0 +1,28 @@
+#title {
+    font-size: 200%;
+    width: 65vmax;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+#image {
+    max-width: 60%;
+    height: auto;
+    display: block;
+  }
+
+  @media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 300px 15px 300px;
+        }
+  }
+
+  @media(orientation: landscape)
+  {
+
+  }
